@@ -35,7 +35,7 @@
 project(
   'libXcomposite',
   'c',
-  version: '0.4.6',
+  version: '0.4.7',
   license: 'HPND-sell-variant AND MIT',
   license_files: 'COPYING',
   meson_version: '>= 1.1.0',
